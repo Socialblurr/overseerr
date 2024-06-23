@@ -19,6 +19,7 @@
 
 ## Current Features
 
+- Anime dedicated Sonarr and Radarr selection options
 - Full Plex integration. Authenticate and manage user access with Plex!
 - Easy integration with your existing services. Currently, Overseerr supports Sonarr and Radarr. More to come!
 - Plex library scan, to keep track of the titles which are already available.
